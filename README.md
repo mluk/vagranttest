@@ -1,0 +1,6 @@
+vagranttest
+===========
+yoooo
+
+vagrant story
+
